@@ -52,3 +52,12 @@ nav {
     display: block;
     margin: auto;
 }
+
+.important_header{
+    color: red !important;
+}
+
+.contact_me{
+    display: flex;
+    justify-content: center;
+}
